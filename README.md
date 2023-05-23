@@ -18,9 +18,6 @@ I'm cuurently working on java spring boot<br>I'm lloking to collaborate on fulls
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=asliutkarsh&icon=0&color=3)](https://visitcount.itsvg.in)
 
