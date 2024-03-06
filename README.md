@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm cuurently working on java spring boot<br>I'm loking to collaborate on fullstack project with java backend<br>I'm looking for help with cloud technology<br>I'm currently learning Apache Spark
+I'm cuurently working on java spring boot<br>I'm loking to collaborate on fullstack project with java backend<br>I'm looking for help with cloud technology<br>I'm currently learning Azure AI & ML
 
 
 ## 🌐 Socials:
