@@ -46,12 +46,6 @@ I don't just deploy resources; I engineer **Zero-Trust environments** for Tier-1
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asliutkarsh&show_icons=true&theme=tokyonight&hide_border=true" alt="asliutkarsh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliutkarsh&theme=tokyonight&hide_border=true" alt="asliutkarsh" />
-</p>
-
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asliutkarsh) 
 
